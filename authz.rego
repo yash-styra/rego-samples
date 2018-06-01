@@ -1,4 +1,4 @@
-package http.authz
+package styra.library
 
 allow {
 	input.user == "ramesh"
